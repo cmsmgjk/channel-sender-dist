@@ -2,11 +2,11 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.2.0",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.2.0/channel-sender-v0.2.0.zip",
+  "latestVersion": "0.3.0",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.0/channel-sender-v0.3.0.zip",
   "changes": [
-    "왼쪽 세로 메뉴로 개편",
-    "전체 공지·광고 화면 추가 — 대화방 전체 발송",
-    "광고 규정 장치 — (광고) 표기·수신거부·야간 차단"
+    "반별 문자 — 반을 체크하면 그 반 학생이 전부 선택됩니다",
+    "단체 문자 — 목록 칸을 넓혔습니다",
+    "학생 이름 중복 표시 수정"
   ]
 }
