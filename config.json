@@ -2,10 +2,10 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.5.0",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.5.0/channel-sender-v0.5.0.zip",
+  "latestVersion": "0.5.1",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.5.1/channel-sender-v0.5.1.zip",
   "changes": [
-    "이미지 한 장을 함께 보낼 수 있습니다",
-    "미리보기에 이미지가 함께 보입니다"
+    "사용설명서(PDF) 를 동봉했습니다",
+    "이미지 한 장을 함께 보낼 수 있습니다"
   ]
 }
