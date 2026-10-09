@@ -2,10 +2,10 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.3.6",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.6/channel-sender-v0.3.6.zip",
+  "latestVersion": "0.4.0",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.4.0/channel-sender-v0.4.0.zip",
   "changes": [
-    "대상 목록 너비를 드래그로 조절할 수 있습니다",
-    "단체 문자 기본 너비를 줄이고 대화명을 한 줄로 정리"
+    "이력을 발송 묶음 카드로 재설계 — 누르면 메시지와 받은 사람이 펼쳐집니다",
+    "실패만 걸러보기 추가"
   ]
 }
