@@ -2,12 +2,11 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.1.4",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.1.4/channel-sender-v0.1.4.zip",
+  "latestVersion": "0.2.0",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.2.0/channel-sender-v0.2.0.zip",
   "changes": [
-    "자동 연결은 확실할 때만 — 오배송 방지",
-    "점수 높은 쌍부터 배정 — 동명이인 정확도 개선",
-    "미연결을 사유별로 분류",
-    "확인 모드 추가 (키보드로 한 건씩)"
+    "왼쪽 세로 메뉴로 개편",
+    "전체 공지·광고 화면 추가 — 대화방 전체 발송",
+    "광고 규정 장치 — (광고) 표기·수신거부·야간 차단"
   ]
 }
