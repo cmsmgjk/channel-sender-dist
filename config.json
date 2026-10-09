@@ -2,10 +2,10 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.3.0",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.0/channel-sender-v0.3.0.zip",
+  "latestVersion": "0.3.1",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.1/channel-sender-v0.3.1.zip",
   "changes": [
-    "업데이트 알림 추가 — 새 버전이 나오면 오른쪽 위에 빨간 점이 붙습니다",
-    "확장 ID 고정 — 앞으로는 파일만 덮어쓰고 새로고침하면 됩니다"
+    "기존 설치본도 업데이트 알림을 받도록 수정",
+    "설정에 '앱처럼 띄우기' 추가 — 북마크 주소와 바탕화면 아이콘 만드는 법"
   ]
 }
