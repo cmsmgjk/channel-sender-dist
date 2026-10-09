@@ -2,9 +2,10 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.1.0",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.1.0/channel-sender-v0.1.0.zip",
+  "latestVersion": "0.1.1",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.1.1/channel-sender-v0.1.1.zip",
   "changes": [
-    "첫 배포"
+    "미리보기가 잘리던 문제 수정 — 선택한 전원이 스크롤로 보입니다",
+    "명단만 비어 보일 때 복구 안내 표시"
   ]
 }
