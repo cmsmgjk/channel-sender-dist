@@ -2,10 +2,9 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.3.2",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.2/channel-sender-v0.3.2.zip",
+  "latestVersion": "0.3.3",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.3/channel-sender-v0.3.3.zip",
   "changes": [
-    "반 목록과 학생 목록을 하나로 합쳐 접었다 펼 수 있게 했습니다",
-    "행 간격을 고르게 맞췄습니다"
+    "반을 체크해도 자동으로 펼쳐지지 않습니다"
   ]
 }
