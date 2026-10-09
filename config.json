@@ -2,11 +2,10 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.4.1",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.4.1/channel-sender-v0.4.1.zip",
+  "latestVersion": "0.5.0",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.5.0/channel-sender-v0.5.0.zip",
   "changes": [
-    "이력을 발송 묶음 카드로 재설계 — 누르면 메시지와 받은 사람이 펼쳐집니다",
-    "실패만 걸러보기 추가",
-    "안내문 정리"
+    "이미지 한 장을 함께 보낼 수 있습니다",
+    "미리보기에 이미지가 함께 보입니다"
   ]
 }
