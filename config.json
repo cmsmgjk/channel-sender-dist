@@ -2,9 +2,9 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.3.3",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.3/channel-sender-v0.3.3.zip",
+  "latestVersion": "0.3.4",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.3.4/channel-sender-v0.3.4.zip",
   "changes": [
-    "반을 체크해도 자동으로 펼쳐지지 않습니다"
+    "대상 고르기에 [학교] 추가"
   ]
 }
