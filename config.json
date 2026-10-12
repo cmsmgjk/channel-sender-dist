@@ -2,11 +2,11 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.6.0",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.6.0/channel-sender-v0.6.0.zip",
+  "latestVersion": "0.6.1",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.6.1/channel-sender-v0.6.1.zip",
   "changes": [
-    "대화명 읽는 규칙 — 어느 자리가 이름·학교인지 직접 정할 수 있습니다",
-    "명단 탭 [대화명 읽는 규칙] 버튼",
-    "규칙을 안 정하면 지금까지와 똑같이 동작합니다"
+    "이미지를 2장까지 보낼 수 있습니다",
+    "이미지 기다리는 시간이 짧아졌습니다",
+    "발송이 끝나면 한 건에 몇 초 걸렸는지 보여줍니다"
   ]
 }
