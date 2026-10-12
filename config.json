@@ -2,10 +2,11 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "",
-  "latestVersion": "0.5.2",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.5.2/channel-sender-v0.5.2.zip",
+  "latestVersion": "0.6.0",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.6.0/channel-sender-v0.6.0.zip",
   "changes": [
-    "[정훈T] 이태규(양정중3) 같은 대화명을 읽습니다",
-    "학년·담당교사도 매칭에 반영됩니다"
+    "대화명 읽는 규칙 — 어느 자리가 이름·학교인지 직접 정할 수 있습니다",
+    "명단 탭 [대화명 읽는 규칙] 버튼",
+    "규칙을 안 정하면 지금까지와 똑같이 동작합니다"
   ]
 }
