@@ -2,9 +2,11 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "대화명 바꾸기를 처음 쓰실 때는 반드시 [1개만 시험] 부터 눌러주세요. 대화명은 학부모님께도 보이고, 카카오에는 되돌리는 기능이 없습니다.",
-  "latestVersion": "0.7.2",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.7.2/channel-sender-v0.7.2.zip",
+  "latestVersion": "0.7.3",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.7.3/channel-sender-v0.7.3.zip",
   "changes": [
+    "창의 [나중에]·[닫기]·× 를 눌러도 안 닫히던 것을 고쳤습니다",
+    "Esc 로도 창이 닫힙니다 (보내는 중에 뜨는 진행 창만 예외입니다)",
     "처음 켜면 사용 방식을 묻습니다 — [카톡 대화명만] 또는 [학원 엑셀과 연동]",
     "고른 방식에 안 쓰는 버튼은 접힙니다. 설정에서 [숨긴 기능도 모두 보기] 로 언제든 되돌립니다",
     "쓰시던 분께는 묻지 않습니다 — 지금 쓰는 모양새대로 알아서 맞춥니다",
