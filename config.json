@@ -2,9 +2,11 @@
   "inputSelector": "#chatWrite",
   "sendSelector": "#kakaoWrap button.btn_submit",
   "notice": "대화명 바꾸기를 처음 쓰실 때는 반드시 [1개만 시험] 부터 눌러주세요. 대화명은 학부모님께도 보이고, 카카오에는 되돌리는 기능이 없습니다.",
-  "latestVersion": "0.7.4",
-  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.7.4/channel-sender-v0.7.4.zip",
+  "latestVersion": "0.7.5",
+  "downloadUrl": "https://github.com/cmsmgjk/channel-sender-dist/releases/download/v0.7.5/channel-sender-v0.7.5.zip",
   "changes": [
+    "한 학생이 수학반·과학반을 같이 들을 수 있습니다 — 엑셀에 두 줄로 넣으면 반을 더합니다",
+    "어느 반을 고르셔도 그 학생이 들어가고, 두 반을 다 골라도 문자는 한 통만 갑니다",
     "형제가 같은 대화방을 쓰면 미리보기도 한 장으로 합쳐 보여줍니다",
     "합쳐진 카드에 누구 이름으로 나가는지 적어 둡니다 (보내는 방식은 그대로입니다)",
     "창의 [나중에]·[닫기]·× 를 눌러도 안 닫히던 것을 고쳤습니다",
